@@ -1,0 +1,6 @@
+E:\vs\prototype\x64\Debug\prototype.exe
+C:\Users\User\Desktop\427\prototype\x64\Debug\prototype.exe
+C:\Users\User\Desktop\427\prototype\x64\Debug\prototype.pdb
+E:\vs\427\prototype\x64\Debug\prototype.exe
+E:\PROJECT\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT\x64\Debug\prototype.exe

@@ -1,0 +1,17 @@
+E:\vs\prototype\x64\Debug\prototype.exe
+C:\Users\User\Desktop\427\prototype\x64\Debug\prototype.exe
+C:\Users\User\Desktop\427\prototype\x64\Debug\prototype.pdb
+E:\vs\427\prototype\x64\Debug\prototype.exe
+E:\PROJECT\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT\x64\Debug\prototype.exe
+F:\PROJECT\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\OOP project\PROJECT2\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT2\x64\Debug\prototype.exe
+C:\Users\GameToGo\Downloads\PROJECT2\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT4\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\OOP project\PROJECT4\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT5\x64\Debug\prototype.exe
+C:\Users\Sandy\Desktop\3D大逃殺\PROJECT3_0629\PROJECT5\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\OOP project\PROJECT5_2\PROJECT5\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT5_2\PROJECT5\x64\Debug\prototype.exe
+C:\Users\GameToGo\Desktop\PROJECT5_5\PROJECT5\x64\Debug\prototype.exe
